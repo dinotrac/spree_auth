@@ -3,7 +3,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_auth'
-  s.version     = version
+  s.version     = "0.60.1"
   s.summary     = 'Provides authentication and authorization services for use with Spree.'
   s.description = 'Required dependancy for Spree'
 
